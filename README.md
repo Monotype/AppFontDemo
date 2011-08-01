@@ -3,6 +3,8 @@ App Font Demo
 
 This is a collection of sample code to illustrate the usage of custom fonts on the iOS platform. Since Version 3.2, iOS supports custom fonts for apps. Applications that want to use custom fonts simply include those fonts in their application bundle. Additionally, every font has to be registered with the system via the app's Info.plist file.
 
+The following examples all use the free FontFont FF Sero Medium (OpenType).
+
 Basics
 ------
 
@@ -37,9 +39,7 @@ Here is a code snippet to list all fonts available to the app:
 About the code
 ==============
 
-Here's a short video of what the app does:
-
-<video src="https://github.com/fontshop/AppFontDemo/raw/master/img/AppFontsMovie.m4v" controls="1" preload="none" width="326" height="484" poster="https://github.com/fontshop/AppFontDemo/raw/master/img/poster.png">
+Here's a short [video](https://github.com/fontshop/AppFontDemo/raw/master/img/AppFontsMovie.m4v) featuring the app in action.
   
 Navigation controller and navigation bar
 ----------------------------------------
