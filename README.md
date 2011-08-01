@@ -8,7 +8,7 @@ Basics
 
 Basically, add the fonts you want to use to your application bundle by dragging them into the project. Then add the key 'UIAPPFonts' to your Application.plist file (the human readable term shown by default in XCode is 'Fonts provided by application'):
 
-![plist additions](./raw/master/img/plist.png)
+![plist additions](https://github.com/fontshop/AppFontDemo/raw/master/img/plist.png)
 
 The font format can be either Truetype (\*.ttf) or OpenType (\*.otf).
 
@@ -39,14 +39,14 @@ About the code
 
 Here's a short video of what the app does:
 
-<video src="./raw/master/img/AppFontsMovie.m4v" controls="1" preload="none" width="326" height="484" poster="./raw/master/img/poster.png">
+<video src="https://github.com/fontshop/AppFontDemo/raw/master/img/AppFontsMovie.m4v" controls="1" preload="none" width="326" height="484" poster="https://github.com/fontshop/AppFontDemo/raw/master/img/poster.png">
   
 Navigation controller and navigation bar
 ----------------------------------------
 
 You may have noticed that the font used on the navigation bar at the top (title and back button) are set in a custom font. The iOS API does not make it particularly easy to change some aspects of the standard controls, consequently there is some not-so-obvious technique at work here. I have implemented the gist of it in the UIViewController category.
 
-![Navigation bar](./raw/master/img/navigationbar.png)
+![Navigation bar](https://github.com/fontshop/AppFontDemo/raw/master/img/navigationbar.png)
 
 For the navigation bar title, there is a custom view (a UILabel) created where we can set the font easily. That view is set as the title view of the navigation item, replacing the default one. Also some hadows are set to mimic the original a bit.
 
@@ -83,11 +83,11 @@ UIButton with its rounded and custom incarnations is pretty straightforward, the
 
     self.defaultButton.titleLabel.font = [UIFont fontWithName:@"SeroOT-Medium" size:18];
     
-![UIButtons](./raw/master/img/buttons.png)
+![UIButtons](https://github.com/fontshop/AppFontDemo/raw/master/img/buttons.png)
 
 For a UISegmentedControl, things are a bit more involved. No font property is exposed from the class. The (admittedly crude) way to force usage of custom fonts is to render the text into an offscreen image and set the image property of the segment.
 
-![UIButtons](./raw/master/img/segmented_control.png)
+![UIButtons](https://github.com/fontshop/AppFontDemo/raw/master/img/segmented_control.png)
 
     UIFont*		font	= [UIFont fontWithName:@"SeroOT-Medium" size:14];
     for (NSInteger i=0; i<self.segmentedControl.numberOfSegments; i++) {
@@ -119,7 +119,7 @@ Text views are, like buttons, very straight forward. The font property is direct
     self.textField.font = [UIFont fontWithName:@"SeroOT-Medium" size:14];
     self.textView.font = [UIFont fontWithName:@"SeroOT-Medium" size:14];
 
-![UIButtons](./raw/master/img/text_views.png)
+![UIButtons](https://github.com/fontshop/AppFontDemo/raw/master/img/text_views.png)
 
 Layers
 ------
