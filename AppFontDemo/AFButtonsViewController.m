@@ -49,14 +49,14 @@
   self.navigationItem.title = @"Buttons";
   [self setupNavigationItemFont];
   
-  self.defaultButton.titleLabel.font = [UIFont fontWithName:@"SeroOT-Medium" size:18];
-  self.customButton.titleLabel.font = [UIFont fontWithName:@"SeroOT-Medium" size:18];
+  self.defaultButton.titleLabel.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:18];
+  self.customButton.titleLabel.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:18];
   self.customButton.backgroundColor = [UIColor colorWithWhite:0.6 alpha:1];
   [self.customButton setTitleColor:[UIColor yellowColor] forState:UIControlStateNormal];
   
   // segmented control: loop through segments and render the text to an image. 
   // then set that image to the segmented
-	UIFont*		font	= [UIFont fontWithName:@"SeroOT-Medium" size:14];
+	UIFont*		font	= [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:14];
   for (NSInteger i=0; i<self.segmentedControl.numberOfSegments; i++) {
     NSString*	text = [self.segmentedControl titleForSegmentAtIndex:i];
     // get the size of the title string

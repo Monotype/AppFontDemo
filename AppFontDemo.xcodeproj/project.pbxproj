@@ -13,7 +13,6 @@
 		A908C72813E052340039E510 /* AFLayersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A908C72613E052340039E510 /* AFLayersViewController.m */; };
 		A908C72913E052340039E510 /* AFLayersViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A908C72713E052340039E510 /* AFLayersViewController.xib */; };
 		A908C72C13E060C10039E510 /* AFLayersView.m in Sources */ = {isa = PBXBuildFile; fileRef = A908C72B13E060C10039E510 /* AFLayersView.m */; };
-		A935BEF113E6CF3600975E45 /* SeroOT-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = A935BEF013E6CF3600975E45 /* SeroOT-Medium.otf */; };
 		A948142613E15D6D00AF4514 /* AFWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A948142413E15D6D00AF4514 /* AFWebViewController.m */; };
 		A948142713E15D6D00AF4514 /* AFWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A948142513E15D6D00AF4514 /* AFWebViewController.xib */; };
 		A948142913E15EFC00AF4514 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = A948142813E15EFC00AF4514 /* index.html */; };
@@ -39,24 +38,24 @@
 		A9E2E85C13DF72C000DF4FBF /* back-button.png in Resources */ = {isa = PBXBuildFile; fileRef = A9E2E85B13DF72C000DF4FBF /* back-button.png */; };
 		A9E2E85F13DF781200DF4FBF /* back-button-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = A9E2E85D13DF781200DF4FBF /* back-button-hi.png */; };
 		A9E2E86013DF781200DF4FBF /* back-button-hi@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A9E2E85E13DF781200DF4FBF /* back-button-hi@2x.png */; };
+		A9E36A7C140E4BDD00666BA2 /* BasicGothicMobiPro-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9E36A7B140E4BDD00666BA2 /* BasicGothicMobiPro-BlackItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A908C71D13E034400039E510 /* AFTextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFTextViewController.h; sourceTree = "<group>"; };
-		A908C71E13E034400039E510 /* AFTextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFTextViewController.m; sourceTree = "<group>"; };
+		A908C71E13E034400039E510 /* AFTextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AFTextViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		A908C71F13E034400039E510 /* AFTextViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AFTextViewController.xib; sourceTree = "<group>"; };
 		A908C72313E046870039E510 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		A908C72513E052340039E510 /* AFLayersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFLayersViewController.h; sourceTree = "<group>"; };
 		A908C72613E052340039E510 /* AFLayersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFLayersViewController.m; sourceTree = "<group>"; };
 		A908C72713E052340039E510 /* AFLayersViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AFLayersViewController.xib; sourceTree = "<group>"; };
 		A908C72A13E060C10039E510 /* AFLayersView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFLayersView.h; sourceTree = "<group>"; };
-		A908C72B13E060C10039E510 /* AFLayersView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFLayersView.m; sourceTree = "<group>"; };
-		A935BEF013E6CF3600975E45 /* SeroOT-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SeroOT-Medium.otf"; path = "fonts/SeroOT-Medium.otf"; sourceTree = "<group>"; };
+		A908C72B13E060C10039E510 /* AFLayersView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AFLayersView.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		A948142313E15D6D00AF4514 /* AFWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFWebViewController.h; sourceTree = "<group>"; };
 		A948142413E15D6D00AF4514 /* AFWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFWebViewController.m; sourceTree = "<group>"; };
 		A948142513E15D6D00AF4514 /* AFWebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AFWebViewController.xib; sourceTree = "<group>"; };
-		A948142813E15EFC00AF4514 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = web/index.html; sourceTree = "<group>"; };
-		A948142A13E1630C00AF4514 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		A948142813E15EFC00AF4514 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; lineEnding = 0; name = index.html; path = web/index.html; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.html; };
+		A948142A13E1630C00AF4514 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; lineEnding = 0; path = README.md; sourceTree = "<group>"; };
 		A948142C13E1642A00AF4514 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		A948142F13E18BE600AF4514 /* AFFontListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFFontListViewController.h; sourceTree = "<group>"; };
 		A948143013E18BE700AF4514 /* AFFontListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFFontListViewController.m; sourceTree = "<group>"; };
@@ -78,7 +77,7 @@
 		A9E2E83D13DF193700DF4FBF /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		A9E2E84013DF193700DF4FBF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
 		A9E2E85113DF2AB900DF4FBF /* AFButtonsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFButtonsViewController.h; sourceTree = "<group>"; };
-		A9E2E85213DF2AB900DF4FBF /* AFButtonsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFButtonsViewController.m; sourceTree = "<group>"; };
+		A9E2E85213DF2AB900DF4FBF /* AFButtonsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AFButtonsViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		A9E2E85313DF2AB900DF4FBF /* AFButtonsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AFButtonsViewController.xib; sourceTree = "<group>"; };
 		A9E2E85613DF6B7A00DF4FBF /* UIViewController+AppFonts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+AppFonts.h"; sourceTree = "<group>"; };
 		A9E2E85713DF6B7A00DF4FBF /* UIViewController+AppFonts.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+AppFonts.m"; sourceTree = "<group>"; };
@@ -86,6 +85,7 @@
 		A9E2E85B13DF72C000DF4FBF /* back-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "back-button.png"; path = "images/back-button.png"; sourceTree = "<group>"; };
 		A9E2E85D13DF781200DF4FBF /* back-button-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "back-button-hi.png"; path = "images/back-button-hi.png"; sourceTree = "<group>"; };
 		A9E2E85E13DF781200DF4FBF /* back-button-hi@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "back-button-hi@2x.png"; path = "images/back-button-hi@2x.png"; sourceTree = "<group>"; };
+		A9E36A7B140E4BDD00666BA2 /* BasicGothicMobiPro-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "BasicGothicMobiPro-BlackItalic.ttf"; path = "fonts/BasicGothicMobiPro-BlackItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,13 +169,13 @@
 		A9E2E82E13DF193700DF4FBF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A9E36A7B140E4BDD00666BA2 /* BasicGothicMobiPro-BlackItalic.ttf */,
 				A9D3308813E1CC4200255D9E /* icon.png */,
 				A9D3308913E1CC4200255D9E /* icon@2x.png */,
 				A9E2E85D13DF781200DF4FBF /* back-button-hi.png */,
 				A9E2E85E13DF781200DF4FBF /* back-button-hi@2x.png */,
 				A9E2E85B13DF72C000DF4FBF /* back-button.png */,
 				A9E2E85913DF70D400DF4FBF /* back-button@2x.png */,
-				A935BEF013E6CF3600975E45 /* SeroOT-Medium.otf */,
 				A9E2E82F13DF193700DF4FBF /* AppFontDemo-Info.plist */,
 				A9E2E83013DF193700DF4FBF /* InfoPlist.strings */,
 				A9E2E83313DF193700DF4FBF /* AppFontDemo-Prefix.pch */,
@@ -249,7 +249,7 @@
 				A948143313E18BE700AF4514 /* AFFontListViewController.xib in Resources */,
 				A9D3308A13E1CC4200255D9E /* icon.png in Resources */,
 				A9D3308B13E1CC4200255D9E /* icon@2x.png in Resources */,
-				A935BEF113E6CF3600975E45 /* SeroOT-Medium.otf in Resources */,
+				A9E36A7C140E4BDD00666BA2 /* BasicGothicMobiPro-BlackItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

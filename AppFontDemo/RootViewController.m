@@ -76,7 +76,7 @@ typedef enum {
     UILabel* label = [[UILabel alloc] initWithFrame:CGRectInset(cell.bounds, 5, 5)];
     
     label.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
-    label.font = [UIFont fontWithName:@"SeroOT-Medium" size:18];
+    label.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:18];
     label.textColor = [UIColor blackColor];
     label.highlightedTextColor = [UIColor whiteColor];
     label.tag = ROOT_CELL_LABEL_TAG;

@@ -18,7 +18,7 @@
 -(void)setupNavigationItemFont {
   UILabel* label = [[UILabel alloc] initWithFrame:self.navigationController.navigationBar.frame];
   label.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
-  label.font = [UIFont fontWithName:@"SeroOT-Medium" size:24];
+  label.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:24];
   label.backgroundColor = [UIColor clearColor];
   label.textColor = [UIColor whiteColor];
   label.text = self.navigationItem.title;
@@ -45,7 +45,7 @@
     // measure the title string and set the button size from that
     NSString* title = @"Back";
     
-    UIFont* font = [UIFont fontWithName:@"SeroOT-Medium" size:14];
+    UIFont* font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:14];
     CGSize size = [title sizeWithFont:font];
     
     button.frame = CGRectMake(0, 0, size.width + buttonBackground.size.width, 30);

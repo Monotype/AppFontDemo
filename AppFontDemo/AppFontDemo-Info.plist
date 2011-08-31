@@ -39,7 +39,7 @@
 	<string>MainWindow</string>
 	<key>UIAppFonts</key>
 	<array>
-		<string>SeroOT-Medium.otf</string>
+		<string>BasicGothicMobiPro-BlackItalic.ttf</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>

@@ -58,7 +58,7 @@ static NSInteger layerCount = 3;
         textLayer.position = self.layer.position;
         // retina displays need this:
         textLayer.contentsScale = [[UIScreen mainScreen] scale];
-        textLayer.font = CGFontCreateWithFontName((CFStringRef)@"SeroOT-Medium");
+        textLayer.font = CGFontCreateWithFontName((CFStringRef)@"BasicGothicMobiPro-BlackItalic");
         textLayer.fontSize = 120;
         textLayer.contentsGravity = kCAGravityCenter;
         textLayer.alignmentMode = kCAAlignmentCenter;

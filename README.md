@@ -81,7 +81,7 @@ Buttons
 
 UIButton with its rounded and custom incarnations is pretty straightforward, the font property is properly exposed.
 
-    self.defaultButton.titleLabel.font = [UIFont fontWithName:@"SeroOT-Medium" size:18];
+    self.defaultButton.titleLabel.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:18];
     
 ![UIButtons](https://github.com/fontshop/AppFontDemo/raw/master/img/buttons.png)
 
@@ -89,7 +89,7 @@ For a UISegmentedControl, things are a bit more involved. No font property is ex
 
 ![UIButtons](https://github.com/fontshop/AppFontDemo/raw/master/img/segmented_control.png)
 
-    UIFont*		font	= [UIFont fontWithName:@"SeroOT-Medium" size:14];
+    UIFont*		font	= [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:14];
     for (NSInteger i=0; i<self.segmentedControl.numberOfSegments; i++) {
       NSString*	text = [self.segmentedControl titleForSegmentAtIndex:i];
       // get the size of the title string
@@ -115,9 +115,9 @@ Text views
 
 Text views are, like buttons, very straight forward. The font property is directly exposed in the API.
 
-    self.label.font = [UIFont fontWithName:@"SeroOT-Medium" size:18];
-    self.textField.font = [UIFont fontWithName:@"SeroOT-Medium" size:14];
-    self.textView.font = [UIFont fontWithName:@"SeroOT-Medium" size:14];
+    self.label.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:18];
+    self.textField.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:14];
+    self.textView.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:14];
 
 ![UIButtons](https://github.com/fontshop/AppFontDemo/raw/master/img/text_views.png)
 
@@ -126,7 +126,7 @@ Layers
 
 Drawing text into layers is preferrably done with the CATextLayer class. Layers uses the CoreGraphics API to draw, so we have to deal with a CGFontRef instead of UIFont. To get a CGFontRef for your Custom font, use this function:
 
-    textLayer.font = CGFontCreateWithFontName((CFStringRef)@"SeroOT-Medium");
+    textLayer.font = CGFontCreateWithFontName((CFStringRef)@"BasicGothicMobiPro-BlackItalic");
 
 Note that unoike UIFont, CGFont does not carry the font size (consequently, UIFont and CGFontRef are not toll free bridged). Set the font size like this:
 
@@ -149,11 +149,11 @@ Web view
 Not really part of the Cocoa Touch API, but its good to know that UIWebView supports the @font-face style definitions. To change the font for the h1 tag, put something like this into your style definitions:
 
     @font-face {
-      font-family: "SeroOT-Medium";
-      src: url(SeroOT-Medium.otf) format("opentype");
+      font-family: "BasicGothicMobiPro-BlackItalic";
+      src: url(BasicGothicMobiPro-BlackItalic.otf) format("opentype");
     }
     h1 {
-      font-family: SeroOT-Medium;
+      font-family: BasicGothicMobiPro-BlackItalic;
     }
 
 List of available fonts

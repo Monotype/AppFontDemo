@@ -46,11 +46,11 @@
   [super viewDidLoad];
   self.navigationItem.title = @"Text Views";
   [self setupNavigationItemFont];
-  self.label.font = [UIFont fontWithName:@"SeroOT-Medium" size:18];
-  self.textField.font = [UIFont fontWithName:@"SeroOT-Medium" size:14];
+  self.label.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:18];
+  self.textField.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:14];
   self.textView.layer.borderColor = [UIColor grayColor].CGColor;
   self.textView.layer.borderWidth = 1.0;
-  self.textView.font = [UIFont fontWithName:@"SeroOT-Medium" size:14];
+  self.textView.font = [UIFont fontWithName:@"BasicGothicMobiPro-BlackItalic" size:14];
 }
 
 - (void)viewDidUnload
