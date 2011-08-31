@@ -3,7 +3,7 @@ App Font Demo
 
 This is a collection of sample code to illustrate the usage of custom fonts on the iOS platform. Since Version 3.2, iOS supports custom fonts for apps. Applications that want to use custom fonts simply include those fonts in their application bundle. Additionally, every font has to be registered with the system via the app's Info.plist file.
 
-The following examples all use the free FontFont FF Sero Medium (OpenType).
+The following examples all use the free FontFont FF Basic Gothic Black Italic (Truetype).
 
 Basics
 ------
