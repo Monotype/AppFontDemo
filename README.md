@@ -172,5 +172,5 @@ Iterating through the list of all available fonts is easy:
 How to get fonts
 ----------------
 
-Fonts can be found all over the web, but be aware that licensing terms for professional typefaces often forbid embedding them into them apps. Shameless plug: For the best selection of fonts _IN THE WORLD_, head over to [FontShop](http://www.fontshop.com/).
+Fonts can be found all over the web, but be aware that licensing terms for professional typefaces often forbid embedding them into them apps. Shameless plug: For the best selection of fonts _IN THE WORLD_, head over to the [Mobile FontFonts](http://mobilefontfonts.com/) website, part of the [FontShop](http://www.fontshop.com/) empire.
 

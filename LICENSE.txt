@@ -18,3 +18,143 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+END USER LICENCE AGREEMENT FOR FONTFONT TYPEFACES
+
+This end user Licence Agreement (hereinafter “Agreement”) is a legal agreement
+between you, or, if you represent a legal entity, that legal entity (hereinafter
+“you”) and FSI FontShop International GmbH (hereinafter “FSI”), and is
+applicable to the Font Software that is accompanied by this Agreement or that
+you have ordered online.
+
+By downloading the Font Software or opening the package, you agree to be bound
+by the terms of this Agreement. If you do not agree to the terms of this
+Agreement, do not download, install, or use the Font Software. If you have
+purchased a Licence to use the Font Software in a sealed retail package and do
+not agree to the terms of this Agreement, return it unopened to the place of
+purchase.
+
+1. Definitions
+
+“Font Software” means coded software that generates typeface designs when used
+“with the appropriate hard- and software plus any and all other data including
+“documentation provided with such software.
+
+“Licensed Unit” means an installation of the Font Software that allows up to
+“five (5) concurrent users to use it at a single geographic location. A single
+“geographic location is in particular the site of your place of business. The
+“geographic restriction does not apply to portable computers if they are owned
+“by you.
+
+2. Grant of License
+
+2.1. Number of users. FSI grants you a non-exclusive licence to use the Font
+Software in a Licensed Unit for your own personal or business purposes according
+to the terms of this Agreement. If the number of users who use the Font Software
+exceeds those set forth in the definition of Licensed Unit above, then you must
+request from FSI or its authorized Distributors an appropriate licence covering
+all users. An additional fee will be charged for this licence extension.
+
+2.2. Embedding. You may embed the Font Software in documents, applications or
+devices either as a rasterized representation of the Font Software (e. g., a GIF
+or JPEG) or as a subset of the Font Software as long as the document,
+application or device is distributed in a secure format that permits only the
+viewing and printing but not the editing of the text. You need an additional
+licence from FSI or its Distributors (i) for the use of the Font Software in
+documents, applications or devices permitting editing of the text, if such
+documents, applications or devices shall be distributed to third parties or (ii)
+if the Font Software is embedded neither as a subset nor as a rasterized
+representation.
+
+2.3. Back-up. You may make back-up copies of the Font Software for archival
+purposes only, provided that you retain exclusive custody and control over such
+copies.
+
+2.4. Service bureaus. You may take a digitized copy of the Font Software used in
+a particular document to a commercial printer or service bureau for outputting
+this particular document (this document must not be edited by the printer or
+service bureau). In the event of any modifications to the document or use of the
+Font Software for other purposes, the printer or service bureau must purchase
+its own Font Software licences.
+
+2.5. Copying. Except as granted in 2.2. to 2.4., you may not copy the Font
+Software or allow third parties to copy the Font Software. Any copy of the Font
+Software must contain the same copyright, trademark, and other proprietary
+information as the originals.
+
+2.6. Modifications. Except as granted in 2.2., you may not modify, adapt,
+translate, reverse engineer, decompile, disassemble, alter, or attempt to
+discover the source code of the Font Software. If you want to make modifications
+to the Font Software, you must obtain the prior written consent of FSI.
+
+3. Ownership
+
+The Font Software, and all copies thereof, is protected by the United States
+Copyright Law, by the copyright and design laws of other nations, and by
+international treaties. Any copyright, trademark and other rights belong
+exclusively to FSI, except as expressly provided in 2.1. You do not gain the
+ownership of the Font Software under this Agreement. The structure,
+organization, and the code of the Font Software are trade secrets of FSI, and
+you agree to treat them as such.
+
+4. Transfer of License
+
+Except as expressly provided herein, you may not give, rent or lease the Font
+Software or parts of it to third parties. You may transfer all your rights to
+use the Font Software and Documentation to another person or legal entity
+provided that (i) the transferee accepts and agrees in writing (with copy to
+FSI) to be bound by all the terms and conditions of this Agreement, and (ii) you
+destroy all copies of the Font Software and Documentation, including all copies
+stored in the memory of a hardware device. Without limiting the generality of
+the foregoing, you agree that you will not distribute or disseminate all or any
+part of the Font Software through any online service.
+
+5. Warranties
+
+FSI warrants to you that the Font Software will perform substantially in
+accordance with the Documentation for the ninety (90) day period following your
+receipt of the Font Software. To make a warranty claim, you must return the Font
+Software to the location from which you obtained it along with a copy of your
+sales receipt within such ninety (90) day period. If the Font Software does not
+perform substantially in accordance with the Documentation, the entire and
+exclusive liability and remedy shall be limited to either, at FSI’s option, the
+replacement of the Font Software or the refund of the licence fee you paid for
+the Font Software. FSI and its suppliers do not and cannot warrant the
+performance or results you may obtain by using the Font Software or
+Documentation. The foregoing states the sole and exclusive remedies for FSI’s or
+its suppliers’ breach of warranty. Except for the foregoing limited warranty,
+FSI and its suppliers make no warranties express or implied, as to non-
+infringement of third party rights, merchantability, or fitness for any
+particular purpose. In no event will FSI or its suppliers be liable to you for
+any consequential, incidental or special damages, including any lost profits or
+lost savings, even if a FSI representative has been advised of the possibility
+of such damages, or for any claim by any third party. This warranty does not
+affect any claims you might have against your retailer.
+
+6. Governing Law
+
+This Agreement will be governed by the laws of Germany. This agreement will not
+be governed by the United Nations Convention of Contracts for the International
+Sale of Goods, the application of which is expressly excluded. If any part of
+this agreement is found void and unenforceable, it will not affect the validity
+of the balance of the Agreement, which shall remain valid and enforceable
+according to its terms. You agree that the Font Software will not be shipped,
+transferred or exported into any country or used in any manner prohibited by the
+United States Export Administration Act or any other applicable export laws,
+restrictions or regulations. This Agreement may only be modified in writing
+signed by an authorized officer of FSI.
+
+7. Termination
+
+FSI has the right to terminate your licence immediately if you fail to comply
+with any term of this Agreement. Upon termination, you must destroy the original
+and any copies of the Font Software and Documentation.
+
+8. General provisions
+
+You agree to inform all users who have access to the Font Software about the
+content of this Agreement and to make sure that they comply with the terms of
+this Agreement.
+
+FSI FontShop International GmbH, Bergmannstr. 102, 10961 Berlin, Germany
